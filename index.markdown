@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+TEST TEST TEST
+
+This is the homepage of the website
+
+Checkout these links to other parts of my websites
+
+TEST TEST TEST
