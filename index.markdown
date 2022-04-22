@@ -7,8 +7,6 @@ layout: home
 
 TEST TEST TEST
 
-This is the homepage of the website
-
-Checkout these links to other parts of my websites
+![balls](https://c.tenor.com/IpzvUz0GXm0AAAAC/twerk-tik-tok.gif)
 
 TEST TEST TEST
