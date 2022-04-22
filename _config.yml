@@ -21,9 +21,10 @@
 title: Nicholas Gauthier
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Howdy! I am a freshman in college at Texas A&M university and I am
+  majoring in engineering. This website is a mix of a get to know me
+  and a place for me show what I am learning and doing as a college
+  student.
 baseurl: "pain" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
