@@ -10,9 +10,9 @@ $$E=mc^2$$
 
 This is a test and nothing more
 
-{%highlight python$}
+{% highlight python %}
 nuts = 0
 penis = 1
 dick = nuts + penis
 print(dick)
-{%endhighlight%}
+{% endhighlight %}
