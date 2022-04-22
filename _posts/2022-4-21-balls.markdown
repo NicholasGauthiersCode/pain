@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Test"
+date:   2022-04-21 23:12:35 -0500
+categories: jekyll update
+usemathjax: true
+---
+
+$$E=mc^2$$
+
+This is a test and nothing more
+
+{%highlight python$}
+nuts = 0
+penis = 1
+dick = nuts + penis
+print(dick)
+{%endhighlight%}
