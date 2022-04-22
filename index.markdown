@@ -5,8 +5,6 @@
 layout: home
 ---
 
-TEST TEST TEST
+Welcome to my website! I built this using a mix of Ruby for the backend, HTML aand CSS for the front end, and the git framework to work on a program.
 
-![balls](https://c.tenor.com/IpzvUz0GXm0AAAAC/twerk-tik-tok.gif)
-
-TEST TEST TEST
+Check out my website a bit and look at some posts.
