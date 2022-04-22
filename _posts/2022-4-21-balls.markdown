@@ -8,4 +8,4 @@ usemathjax: true
 
 Dawg Really?
 
-![really](![image](https://c.tenor.com/QA6mPKs100UAAAAC/caught-in.gif))
+![really](https://c.tenor.com/QA6mPKs100UAAAAC/caught-in.gif)
