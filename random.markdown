@@ -16,3 +16,5 @@ Does this work
 </ul>
 
 <a href="https://nickgauth.github.io/pain/">click here to go to home page test</a>
+
+<a href='https://nickgauth.github.io/pain/calculus/calculushomepage.markdown'>caluclus</a>
