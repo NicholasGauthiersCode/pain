@@ -19,4 +19,4 @@ Does this work
 
 [calculus homepage][calchp]
 
-[calchp]: https://nickgauth.github.io/pain/jekyll/update/2022/04/22/welcome-to-jekyll.html
+[calchp]: https://nickgauth.github.io/pain/math/2022/04/21/calchp.html
