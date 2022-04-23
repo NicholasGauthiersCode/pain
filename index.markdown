@@ -9,4 +9,4 @@ Welcome to my website! I built this using a mix of Ruby for the backend, HTML aa
 
 Check out my website a bit and look at some posts.
 
-$$E=mc^2$$
+$E=mc^2$
