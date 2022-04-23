@@ -15,4 +15,4 @@ Does this work
   {% endfor %}
 </ul>
 
-<a href="pain/index.markdown">click here to go to home page</a>
+<a href="https://nickgauth.github.io/pain/">click here to go to home page test</a>
