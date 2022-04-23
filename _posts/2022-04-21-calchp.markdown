@@ -5,7 +5,7 @@ date:   2022-04-21 19:09:35 -0500
 categories: math
 ---
 
-$\Delta 10x^2$
+$$\Delta 10x^2$$
 
 test test test
 
