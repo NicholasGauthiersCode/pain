@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Calculus homepage"
+layout : default
 date:   2022-04-21 19:09:35 -0500
 categories: math
 ---
