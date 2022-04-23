@@ -11,6 +11,8 @@ categories: math
 c = \pm\sqrt{a^2 + b^2}
 {% endkatex %}
 
+$$\Delta 10x^2$$
+
 test test test
 
 <a href="https://nickgauth.github.io/pain/">click here to go to home page test</a>
