@@ -17,4 +17,4 @@ Does this work
 
 <a href="https://nickgauth.github.io/pain/">click here to go to home page test</a>
 
-<a href='https://nickgauth.github.io/pain/calculus/calculhomepage.markdown'>caluclus</a>
+<a href='https://nickgauth.github.io/pain/calculus/calchomepage.markdown'>caluclus</a>
