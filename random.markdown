@@ -15,8 +15,8 @@ Does this work
   {% endfor %}
 </ul>
 
-<a href="https://nickgauth.github.io/pain/">click here to go to home page test</a>
+<a href="https://nickgauth.github.io/math/calculus/2022-04-21-calchp.html">click here to go to home page test</a>
 
-[calculus homepage again][calchp]
+[calculus homepage redo][calchp]
 
-[calchp]: https://nickgauth.github.io/pain/calculus/2022-04-21-calchp.html
+[calchp]: https://nickgauth.github.io/pain/_default/calculus/2022-04-21-calchp.html/
