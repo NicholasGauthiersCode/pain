@@ -19,4 +19,4 @@ Does this work
 
 [calculus homepage redo][calchp]
 
-[calchp]: https://nickgauth.github.io/pain/_default/calculus/2022-04-21-calchp.html/
+[calchp]: https://nickgauth.github.io/pain/math/2022/04/22/calchp.html
