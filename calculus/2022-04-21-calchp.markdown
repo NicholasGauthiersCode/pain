@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Calculus homepage"
+date:   2022-04-21 19:09:35 -0500
+categories: math
+---
+
+test test test
+
+<a href="https://nickgauth.github.io/pain/">click here to go to home page test</a>
+
+[Home][homelink]
+
+[homelink]: https://nickgauth.github.io/pain/
