@@ -15,4 +15,4 @@ Does this work
   {% endfor %}
 </ul>
 
-click here {{index.markdown}}
+<a href={{index.markdown}}>click here to go to home page</a>
