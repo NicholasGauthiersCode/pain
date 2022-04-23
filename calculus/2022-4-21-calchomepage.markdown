@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How To Get a Bigger Penis in Only 5 Minute!"
+title:  "calculus homepage!"
 date:   2022-04-21 23:12:35 -0500
-categories: jekyll update
+categories: math
 usemathjax: true
 ---
 here is calculus and here are links to the different units
