@@ -3,7 +3,6 @@ title:  "Calculus homepage"
 layout : post
 date:   2022-04-21 19:09:35 -0500
 categories: math
-permalink: calculushomepage
 ---
 
 $$\Delta 10x^2$$
