@@ -8,3 +8,12 @@ categories: Engineering
 <h3>Engineering</h3>
 
 Im and engineering major in school, so it makes sense that this is a major place for my notes
+
+<h3>Class List</h3>
+
+<a href='https://nickgauth.github.io/pain/engineering/2022/04/22/Newtonian-Engineering-Mechanics.html'</a>
+
+
+[Home][homelink]
+
+[homelink]: https://nickgauth.github.io/pain/
