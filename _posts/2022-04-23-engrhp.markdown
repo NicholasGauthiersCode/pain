@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2022-04-23 19:29:35 -0500
+categories: engineering
+---
+
+<h2>Engineering</h3>
+
+Im and engineering major in school, so it makes sense that this is a major place for my notes
