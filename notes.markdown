@@ -10,22 +10,21 @@ Down below you will find a bunch of links that will lead you to their respective
 
 This part of my website takes heavy inspiration from places like [Math3ma][mathemalink], [Vsauce][vsaucelink], [3Blue1Brown][3b1blink], and all of the other channels I have watched over the years. To me, being able to share knowledge and information is one of the most important things I believe anyone can do and this is my avenue for being able to do that.
 
+[mathemalink]: https://www.math3ma.com/
+[vsaucelink]:https://www.youtube.com/c/vsauce1
+[3b1blink]: https://www.3blue1brown.com/
+
 I hope that my notes are useful to whoever uses them and are able to spark an interest in what I do for anyone else!
 
 <h3>Links To Notes</h3>
 
-<p>[Calculus Homepage][calchp]</p>
-<p>[Engineering Homepage][engrhp]</p>
+[Calculus Homepage][calchp]
+[calchp]: https://nickgauth.github.io/math/2022/04/21/calchp.html
 
+[Engineering Homepage][engrhp]
+[engrhp]: https://nickgauth.github.io/engineering/2022/04/23/engrhp.html
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-
-
-[mathemalink]: https://www.math3ma.com/
-[vsaucelink]:https://www.youtube.com/c/vsauce1
-[3b1blink]: https://www.3blue1brown.com/
-[calchp]: https://nickgauth.github.io/math/2022/04/21/calchp.html
-[engrhp]: https://nickgauth.github.io/engineering/2022/04/23/engrhp.html
