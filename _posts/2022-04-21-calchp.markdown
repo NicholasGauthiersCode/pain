@@ -5,11 +5,7 @@ date:   2022-04-21 19:09:35 -0500
 categories: math
 ---
 
-$$\Delta 10x^2$$
-
-test test test
-
-<a href="https://nickgauth.github.io/pain/">click here to go to home page test</a>
+why am i in html plz tell me
 
 [Home][homelink]
 

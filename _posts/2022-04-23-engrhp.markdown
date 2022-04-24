@@ -5,6 +5,6 @@ date:   2022-04-21 19:09:35 -0500
 categories: Engineering
 ---
 
-<h2>Engineering</h3>
+<h3>Engineering</h3>
 
 Im and engineering major in school, so it makes sense that this is a major place for my notes
