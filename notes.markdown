@@ -17,6 +17,6 @@ This part of my website takes heavy inspiration from places like [Math3ma][mathe
 I hope that my notes are useful to whoever uses them and are able to spark an interest in what I do for anyone else!
 
 <h3>Links To Notes</h3>
-<a href="https://nickgauth.github.io/pain/math/2022/04/22/mathchp.html">Math Homepage</a>
+<a href="https://nickgauth.github.io/pain/math/2022/04/22/mathhp.html">Math Homepage</a>
 
 <a href="https://nickgauth.github.io/pain/engineering/2022/04/22/engrhp.html">Engineering Homepage</a>
