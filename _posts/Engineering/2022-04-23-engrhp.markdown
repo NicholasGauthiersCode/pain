@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "engineering"
+title:  "Engineering Homepage"
 date:   2022-04-21 19:09:35 -0500
 categories: Engineering
 ---
@@ -8,3 +8,12 @@ categories: Engineering
 <h3>Engineering</h3>
 
 Im and engineering major in school, so it makes sense that this is a major place for my notes
+
+<h3>Class List</h3>
+
+<a href='https://nickgauth.github.io/pain/engineering/2022/04/22/Newtonian-Engineering-Mechanics.html'>Engineering Mechanics</a>
+
+
+[Home][homelink]
+
+[homelink]: https://nickgauth.github.io/pain/

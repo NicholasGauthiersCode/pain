@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Math Homepage"
+date:   2022-04-21 19:09:35 -0500
+categories: Math
+---
+
+So many people hate math. They are dumb. Checkout some of my notes and maybe you can see why math is so cool!
+
+<h3>Class List</h3>
+<a href='https://nickgauth.github.io/pain/math/2022/04/22/calchp.html'>Calculus</a>
