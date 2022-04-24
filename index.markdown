@@ -15,4 +15,4 @@ This specfic website is hosted using GitHub's GitHub pages server hosting. I am 
 
 Overall I am very happy with how things are coming and I hope that this is an enjoyable place to look and browse through!
 
-{% include image-gallery.html folder="/uploads/albums/spacepics" %}
+
