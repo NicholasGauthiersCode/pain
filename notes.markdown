@@ -18,6 +18,5 @@ I hope that my notes are useful to whoever uses them and are able to spark an in
 
 <h3>Links To Notes</h3>
 <a href="https://nickgauth.github.io/pain/math/2022/04/22/calchp.html">Calculus Homepage</a>
-l
 
-<a href="https://nickgauth.github.io/pain/math/2022/04/22/calchp.html">Engineering Homepage</a>
+<a href="https://nickgauth.github.io/pain/engineering/2022/04/23/engrhp.html">Engineering Homepage</a>

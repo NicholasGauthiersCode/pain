@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Physics Homepage"
+date:   2022-04-21 19:09:35 -0500
+categories: physics
+---
+
+Physics blah blah blah!
+
+[Home][homelink]
+
+[homelink]: https://nickgauth.github.io/pain/

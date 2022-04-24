@@ -5,7 +5,7 @@ date:   2022-04-21 19:09:35 -0500
 categories: math
 ---
 
-why am i in html plz tell me
+Calculus! In my opinion, one of the most well known but least understood maths in the world. If you follow along with my notes, I hope that you will be able to understand the subject even if its just a little bit more!
 
 [Home][homelink]
 
