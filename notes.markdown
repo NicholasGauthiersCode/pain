@@ -14,13 +14,13 @@ I hope that my notes are useful to whoever uses them and are able to spark an in
 
 <h3>Links To Notes</h3>
 
-[Calculus Homepage][calchp]
-[Engineering Homepage][engrhp]
+<p>[Calculus Homepage][calchp]</p>
+<p>[Engineering Homepage][engrhp]</p>
 
 
-# all the links
+#all the links
 [mathemalink]: https://www.math3ma.com/
 [vsaucelink]:https://www.youtube.com/c/vsauce1
 [3b1blink]: https://www.3blue1brown.com/
-[calchp]: https://nickgauth.github.io/math/2022/04/21/calchp.html
+[calchp]: https://nickgauth.github.io/pain/calculushomepage
 [engrhp]: https://nickgauth.github.io/engineering/2022/04/23/engrhp.html
