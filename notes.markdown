@@ -22,5 +22,5 @@ I hope that my notes are useful to whoever uses them and are able to spark an in
 [mathemalink]: https://www.math3ma.com/
 [vsaucelink]:https://www.youtube.com/c/vsauce1
 [3b1blink]: https://www.3blue1brown.com/
-[calchp]: https://nickgauth.github.io/pain/calculushomepage
+[calchp]: https://nickgauth.github.io/math/2022/04/21/calchp.html
 [engrhp]: https://nickgauth.github.io/engineering/2022/04/23/engrhp.html
