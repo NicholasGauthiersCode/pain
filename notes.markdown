@@ -17,8 +17,13 @@ I hope that my notes are useful to whoever uses them and are able to spark an in
 <p>[Calculus Homepage][calchp]</p>
 <p>[Engineering Homepage][engrhp]</p>
 
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-#all the links
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+
 [mathemalink]: https://www.math3ma.com/
 [vsaucelink]:https://www.youtube.com/c/vsauce1
 [3b1blink]: https://www.3blue1brown.com/
