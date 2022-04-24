@@ -17,12 +17,19 @@ This part of my website takes heavy inspiration from places like [Math3ma][mathe
 I hope that my notes are useful to whoever uses them and are able to spark an interest in what I do for anyone else!
 
 <h3>Links To Notes</h3>
+<a href"https://nickgauth.github.io/math/2022/04/21/calchp.html">Calculus Homepage</a>
 
 [Calculus Homepage][calchp]
 [calchp]: https://nickgauth.github.io/math/2022/04/21/calchp.html
 
+<a href"https://nickgauth.github.io/engineering/2022/04/23/engrhp.html">Engineering Homepage</a>
+
 [Engineering Homepage][engrhp]
 [engrhp]: https://nickgauth.github.io/engineering/2022/04/23/engrhp.html
+
+[engr][engrlink]
+engrlink: https://youtube.com
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
