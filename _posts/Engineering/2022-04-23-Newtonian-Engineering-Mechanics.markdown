@@ -11,4 +11,4 @@ Welcome to engineering mechanics dealing with newtonian physics? What does that 
 
 Notes:
 
-<a href='https://nickgauth.github.io/pain/engineering/2022/04/25/Angular-Momentum.html'
+<a href='https://nickgauth.github.io/pain/engineering/2022/04/25/Angular-Momentum.html'> Angular Momentum </a>
