@@ -1,7 +1,7 @@
 ---
 layout: home
 title: lelellelel
-permalink: /poop/
+permalink: /backlog/
 ---
 
-here is a home page
+Here is a backlog with all of the posts in it
