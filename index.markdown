@@ -9,7 +9,7 @@ layout: page
 
 <img src="\pain\assets\albums\spacepics\rocketpic1.jpg"
      alt="rocket"
-     style="float: left; margin-right: 10px;" />
+     aligh="right"/>
 
 Here is a place that I will be able to put some of the intersting things that I am doing and... for more information about myself and this website checkout my <a href='https://nickgauth.github.io/site/about/'>About Me</a> page! if you want to checkout what I am learning in school as an engineer, check out my <a href='https://nickgauth.github.io/site/notes/'>Notes</a> or even my <a href='https://nickgauth.github.io/site/projects'>Projects</a>!
 
