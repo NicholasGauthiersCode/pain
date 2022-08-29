@@ -6,8 +6,9 @@ layout: page
 ---
 
 <h2>Welcome to my website!</h2>
-
-![rocket](\assets\albums\spacepics\rocketpic1.jpg)
+<picture>
+<img src="http://pm1.narvii.com/7592/83156c5c7c6c3db6c1e6a7da95e2410cfedda17dr1-1365-2048v2_uhq.jpg" alt="rocket" style="width:auto;">
+</picture>
 
 Here is a place that I will be able to put some of the intersting things that I am doing and... for more information about myself and this website checkout my <a href='https://nickgauth.github.io/site/about/'>About Me</a> page! if you want to checkout what I am learning in school as an engineer, check out my <a href='https://nickgauth.github.io/site/notes/'>Notes</a> or even my <a href='https://nickgauth.github.io/site/projects'>Projects</a>!
 
