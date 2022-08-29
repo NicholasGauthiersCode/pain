@@ -14,8 +14,3 @@ I have made a few webisites in the past already a few on Wix because they are su
 This specfic website is hosted using GitHub's GitHub pages server hosting. I am very glad I learned about it because it is really a fun project I think everyone should do. It's not as boring as dragging and dropping text boxes like Wix or WordPress and you learn a lot of things you would never expect to. For this project alone I have had to touch base with HTML and CSS since I haven't worked with them in a couple months when I started and I had to familiarize myself with the Git framwork that GitHub uses and Ruby, which is the backbone of this website.
 
 Overall I am very happy with how things are coming and I hope that this is an enjoyable place to look and browse through!
-
-
-![balls](https://c.tenor.com/jUMex_rdqPwAAAAS/among-us-twerk.gif)
-
-![penis](https://c.tenor.com/zOwlmCi6Lb4AAAAC/among-us-meme.gif)
