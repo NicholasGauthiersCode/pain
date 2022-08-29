@@ -23,7 +23,6 @@ email: [Email](NicholasAndresGauthier@gmail.com)
 description: >- # this means to ignore newlines until "baseurl:"
   Scientists make the problems. Engineers fix them.
 
-  -Daniel Ball
 baseurl: "site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: n_icc_k
