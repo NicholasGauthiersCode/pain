@@ -20,9 +20,15 @@
 
 title: Nicholas Gauthier
 email: [Email](NicholasAndresGauthier@gmail.com)
+<<<<<<< HEAD
 # >- this means to ignore newlines until "baseurl:"
 description: >- Scientists make the problems. Engineers fix them.
 - Daniel Ball
+=======
+description: >- # this means to ignore newlines until "baseurl:"
+  Scientists make the problems. Engineers fix them.
+
+>>>>>>> 5dc1a22332cfe7245fe5b84d53f8e82405c577c8
 baseurl: "site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: n_icc_k
