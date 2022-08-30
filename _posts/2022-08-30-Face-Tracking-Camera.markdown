@@ -6,4 +6,4 @@ to do a bit more with it. The grand scheme was to make a "sentry turret" (a fanc
 way of saying throwing a nerf gun on top of the camera) and there were a few
 set backs to that.
 
-<img src="https://github.com/NickGauth/site/blob/ccd5a7e71d45b09c8c29dbcacef67afd739ac2fb/assets/albums/generalpictures/facetrackingcameraoriginalidea.jpg" alt="hi" class="inline"/>
+![Original Idea](https://media.discordapp.net/attachments/903500769515429908/1014234515239096461/IMG_0096.png?width=711&height=542)
