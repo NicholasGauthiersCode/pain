@@ -19,13 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nicholas Gauthier
-email: [Email](NicholasAndresGauthier@gmail.com)
-description: >- Scientists make the problems. Engineers fix them.
+email: NicholasAndresGauthier@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Howdy! I am a freshman in college at Texas A&M university and I am
+  majoring in engineering. This website is a mix of a get to know me
+  and a place for me show what I am learning and doing as a college
+  student.
 baseurl: "site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: n_icc_k
 github_username:  NickGauth
-linkedin_username: NickGauth
+linkedin_username: https://www.linkedin.com/in/nickgauth/
 
 # Build settings
 theme: minima
